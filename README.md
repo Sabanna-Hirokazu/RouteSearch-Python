@@ -1,4 +1,4 @@
-# RouteSelect
+# RouteSearch-Python
 スタート地点からゴール地点までを探索するアルゴリズムの実装を行う。
 
 ## Instruction
